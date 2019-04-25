@@ -1,5 +1,6 @@
 # LEGO-Mindstorms-EV3-car-with-ethics-for-schools-
 LEGO Mindstorms EV3 Project
+
 The content created and shared was produced as part of a bachelor’s degree final year project in mechanical engineering. 
 I am a student at The University of Sheffield and used the LEGO Mindstorms EV3 kit to produce an interactive experience, to raise awareness of the participation gap within mechanical engineering and encourage women to consider it as a career path. The experience was used to also show the accessibility of design and mechanical engineering. 
 
